@@ -25,3 +25,29 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
+
+<p>
+  Screenshot of Points
+
+</p>
+
+<p>
+  Realtime editing of HTML and CSS is done using the Elements tab in Chrome Dev Tools. First you need to open dev tools by using CLtrt + Shift + I. Editing is done by just right clicking and editing the html. Editing of CSS of the html page is usually done on the right sidebar.  Javascript is done along the same vein except the tab you need is Sources. Performance optimization is done using the Network tab. 
+</p>
+<p> The quick key for my OS to spawn the Dev tools inspector is Cltrt + Shift + I. 
+</p>
+<p> the current background color is #0b0f11 of the postmachina page. 
+</p>
+<p>The reason why I can't tweak the color of the text is that the whole thing is an image and images and their text can not be tweaked unless you use a publisher or other software. 
+
+  screenhot of pstmachina
+  
+</p>
+<p> www.ticketswizard.com 
+  92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png is the largest image coming in at 316kb. The image is 500px x 210px I used the network tab to figure this out in dev tools. 
+</p>
+<p> Optimizing using pagespeed insight i learned that optimizing the images would be easiest and would eliminate about 885 KiB of data about 39% of data. 
+  </p>
+
+
+
