@@ -28,7 +28,8 @@
 
 <p>
   Screenshot of Points
-
+week_2/1_Chrome_Dev_Tools/imgs/Devtoolspts.png
+<img height="500px" width="700px" src="https://lh5.googleusercontent.com/-4OKcHcxjDsc/U4ir1OLhoxI/AAAAAAAACd0/3VeKhTG-3nA/w410-h319-no/Devtoolspts.png"></a>
 </p>
 
 <p>
@@ -41,7 +42,8 @@
 <p>The reason why I can't tweak the color of the text is that the whole thing is an image and images and their text can not be tweaked unless you use a publisher or other software. 
 
   screenhot of pstmachina
-  
+<img height="500px" width="700px" src="https://lh4.googleusercontent.com/-kZ4lRAPj1u4/U4ir4Wf7X4I/AAAAAAAACd8/RKOZ204t9bQ/w410-h319-no/pstmachina.png"></a>
+
 </p>
 <p> www.ticketswizard.com 
   92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png is the largest image coming in at 316kb. The image is 500px x 210px I used the network tab to figure this out in dev tools. 
