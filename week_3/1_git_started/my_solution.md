@@ -73,5 +73,7 @@ Define the following commands and describe how they work/what they do.
 
 ## Release 6: Reflection
 <p> Using the terminal is relatively easy I had no real problems using the terminal. The hard part is just memorizing the commands so they are readily available and also to know what they do.
-I just ran into a problem where it can not commit or add files into the staging area. I was going to try to resave and then try again.  
+I just ran into a problem where it can not commit or add files into the staging area. I was going to try to resave and then try again. New problem: when i try to commit: fatal: Unable to creat c:/Sites/ etc. .git/index.lock file exists.
+If no other git process is currently running, this probably means a git process crashed in this repository earlier. Make sure no 
+other git process is running and remove the file manually to continue. I fixed the problem by entering in 'rm .git/index.lock'. This deleted that file and I was able to commit again. Wheww what a relief. 
 </p>
