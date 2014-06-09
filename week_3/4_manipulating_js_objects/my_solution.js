@@ -17,8 +17,17 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
 
 
@@ -26,10 +35,10 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
+// This challenge wasn't too bad. The test helped a ton to figure out what to do and get things done. 
+// Deleting the eyeColor property from terah took some research. Also the syntax for adding the children took some effort. 
+// I enjoyed this challenge there were a lot of things to learn and they weren't too repetitive. 
+// Nothing was too tedious. 
 // 
 // 
 
