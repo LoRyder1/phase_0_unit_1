@@ -1,22 +1,20 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
-
+var secretNumber = 7;
+var password = "wohooo"
+var allowedIn = false;
+var members = ["John", "Sugar", "Spice", "Mary"]
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// 
-// 
-// 
-// 
+// So this challenge was already fait accompli. 
+// Everything was already done just needed do what it says. 
+// The learning was just becoming comfortable with everything. 
+// All the above var needed to be set. 
 // 
 
 
